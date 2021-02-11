@@ -1,0 +1,9 @@
+body {
+  font-family: verdana;
+  padding: 1rem;
+}
+ul#nav {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
